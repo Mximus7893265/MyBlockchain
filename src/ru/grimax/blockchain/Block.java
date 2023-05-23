@@ -1,5 +1,6 @@
 package ru.grimax.blockchain;
 
+import sun.security.provider.DSAPublicKeyImpl;
 import java.io.Serializable;
 import java.security.InvalidKeyException;
 import java.security.Signature;
